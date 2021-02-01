@@ -1,8 +1,8 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** 
-**Date:** 
-**Course:** 
+**Name of the student:** Erwan
+**Date:** 01/02/2021
+**Course:** 3AI
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
